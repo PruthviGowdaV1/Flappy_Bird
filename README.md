@@ -3,15 +3,10 @@
 This is an extremely close clone to the original FlappyBird by Dong Nguyen.
 
 ## Demo
-<img src="demo/demo.gif" width="200">
+![demo](https://github.com/PruthviGowdaV1/Flappy_Bird/assets/140374124/5ebb7501-bff5-43a6-b7d3-3f0e10486a11)
 
-## Compatibility
-FlappyBird is compatible with the iPhone 6s and above on iOS 13 and later.
-Compatible with watchOS 6.0 and above.
-
-## Installation
-The '.ipa' and '.dmg' for FlappyBird can be found on the [release page](https://github.com/crypticplank/flappybird/releases).
-
+## Dependence:
+* pygame
 
 ## Notice
 We do not own most of the Flappy Bird assets, or the Flappy Bird name, some of the assets
